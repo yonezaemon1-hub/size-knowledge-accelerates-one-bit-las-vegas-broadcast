@@ -2,7 +2,7 @@
 
 Author: Ryutaro Yonezu (Independent Researcher)
 
-Status: preprint draft / not peer reviewed. No DOI has been assigned to this paper yet.
+Status: preprint / not peer reviewed. Paper DOI: `10.5281/zenodo.22662155`.
 
 ## Main results
 
@@ -58,4 +58,4 @@ pdflatex paper.tex
 - Code/audit license: MIT
 - PDF SHA-256: `0de5feb165268be83c33562b3e2b295584a77feeccf51cb5cd3577919f9089ac`
 - Software DOI: `10.5281/zenodo.22661995`
-- Paper DOI: pending Zenodo preprint deposit
+- Paper DOI: `10.5281/zenodo.22662155`
