@@ -6,7 +6,7 @@
   "publication_date": "2026-09-08",
   "license": "cc-by-4.0",
   "keywords": ["anonymous dynamic networks", "distributed algorithms", "broadcast", "randomization", "Las Vegas algorithms", "size knowledge", "stabilizing termination", "idle-start", "Bellman equations", "dynamic networks"],
-  "paper_doi": null,
+  "paper_doi": "10.5281/zenodo.22662155",
   "software_doi": "10.5281/zenodo.22661995",
   "github": "https://github.com/yonezaemon1-hub/size-knowledge-accelerates-one-bit-las-vegas-broadcast"
 }
