@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this preprint, please cite it as below."
+title: "Size Knowledge Accelerates One-Bit Las Vegas Broadcast in Anonymous Dynamic Networks"
+type: article
+authors:
+  - family-names: Yonezu
+    given-names: Ryutaro
+version: "1.0.0"
+date-released: 2026-09-08
+url: "https://github.com/yonezaemon1-hub/size-knowledge-accelerates-one-bit-las-vegas-broadcast"
