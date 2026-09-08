@@ -1,0 +1,12 @@
+{
+  "resource_type": "publication-preprint",
+  "title": "Size Knowledge Accelerates One-Bit Las Vegas Broadcast in Anonymous Dynamic Networks",
+  "creators": [{"name": "Yonezu, Ryutaro", "affiliation": "Independent Researcher"}],
+  "version": "v1.0.0",
+  "publication_date": "2026-09-08",
+  "license": "cc-by-4.0",
+  "keywords": ["anonymous dynamic networks", "distributed algorithms", "broadcast", "randomization", "Las Vegas algorithms", "size knowledge", "stabilizing termination", "idle-start", "Bellman equations", "dynamic networks"],
+  "paper_doi": null,
+  "software_doi": null,
+  "github": "https://github.com/yonezaemon1-hub/size-knowledge-accelerates-one-bit-las-vegas-broadcast"
+}
