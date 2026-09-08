@@ -57,5 +57,5 @@ pdflatex paper.tex
 - Paper license: CC BY 4.0
 - Code/audit license: MIT
 - PDF SHA-256: `0de5feb165268be83c33562b3e2b295584a77feeccf51cb5cd3577919f9089ac`
-- Software DOI: pending Zenodo release
+- Software DOI: `10.5281/zenodo.22661995`
 - Paper DOI: pending Zenodo preprint deposit
