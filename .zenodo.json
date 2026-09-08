@@ -1,0 +1,11 @@
+{
+  "title": "Size Knowledge Accelerates One-Bit Las Vegas Broadcast: Source and Audit Package",
+  "upload_type": "software",
+  "description": "Source, manuscript, exact/high-precision Bellman experiments, figures, prior-art audit, and prepublication audit accompanying the preprint Size Knowledge Accelerates One-Bit Las Vegas Broadcast in Anonymous Dynamic Networks.",
+  "creators": [
+    {"name": "Yonezu, Ryutaro", "affiliation": "Independent Researcher"}
+  ],
+  "license": "mit",
+  "keywords": ["anonymous dynamic networks", "distributed algorithms", "broadcast", "randomization", "Las Vegas algorithms", "size knowledge", "stabilizing termination", "idle-start", "Bellman equations", "dynamic networks"],
+  "version": "v1.0.0"
+}
