@@ -56,6 +56,6 @@ pdflatex paper.tex
 - Repository: `yonezaemon1-hub/size-knowledge-accelerates-one-bit-las-vegas-broadcast`
 - Paper license: CC BY 4.0
 - Code/audit license: MIT
-- PDF SHA-256: `0de5feb165268be83c33562b3e2b295584a77feeccf51cb5cd3577919f9089ac`
+- PDF SHA-256: `dde8eb35c8f6a104be34fbad12ef5b07db4e065e4d6e162d36b83784e076d25c`
 - Software DOI: `10.5281/zenodo.22661995`
 - Paper DOI: `10.5281/zenodo.22662155`
