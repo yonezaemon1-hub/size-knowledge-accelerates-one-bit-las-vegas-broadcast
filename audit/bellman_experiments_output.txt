@@ -1,0 +1,4 @@
+PASS_BELLMAN_EXPERIMENTS
+EXACT_RATIONAL_BELLMAN: fair/dyadic/certificate, n=2..20
+FAIR_REFERENCE_MATCH: n=2..8 exact integers
+NUMERIC_BIAS_OPTIMIZATION: 90-digit Bellman solve + golden search, n=2..20
