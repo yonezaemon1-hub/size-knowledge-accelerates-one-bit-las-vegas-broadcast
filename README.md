@@ -59,3 +59,7 @@ pdflatex paper.tex
 - PDF SHA-256: `dde8eb35c8f6a104be34fbad12ef5b07db4e065e4d6e162d36b83784e076d25c`
 - Software DOI: `10.5281/zenodo.22661995`
 - Paper DOI: `10.5281/zenodo.22662155`
+
+## Research inquiries
+
+For questions about this research, reproduction, or collaboration, contact Yonezu Research Lab: [yonezaemon1+research@gmail.com](mailto:yonezaemon1+research@gmail.com).
